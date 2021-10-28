@@ -204,6 +204,10 @@ input {
   padding-bottom: 4px;
 }
 
+.characters {
+  background-color: #222222;
+}
+
 .characters__inner {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -216,7 +220,6 @@ input {
       -ms-flex-pack: center;
           justify-content: center;
   text-align: center;
-  background-color: #222222;
 }
 
 .characters__title {
